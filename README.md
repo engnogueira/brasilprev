@@ -1,14 +1,10 @@
-# libpythonpro
+# Desafio Brasilprev - Linha de comando
 
-Repositório Educacional para ensino das bibliotecas necessárias para desenvolvimento de projetos Open Source do curso PythonPro
+Criação de uma biliboteca em Python chamada brasilprev_line que receberá dados através de linha de comando e ira consumir dados da API do Stackoverflow 
 
-Nesse curso é ensinado como contribuir com projetos de código aberto.
+Candidato: Gilson de Brito Nogueira
 
-Módulo para exemplificar construção de projetos Python no curso PyTools
-
-Aluno: Gilson de Brito Nogueira
-
-Link do curso [Python Pro](https://www.python.pro.br/)
+Link do Repositório de Bibliotecas Python [PyPI.org](https://pypi.org/)
 
 [![Build Status](https://travis-ci.org/engnogueira/libpythonpro.svg?branch=master)](https://travis-ci.org/engnogueira/libpythonpro)
 [![Updates](https://pyup.io/repos/github/escritorioaqui/libpythonpro/shield.svg)](https://pyup.io/repos/github/escritorioaqui/libpythonpro/)
